@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/wz/AndroidStudioProjects/News/magicindicator/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/wz/.android/build-cache/733c35a9ea6cd0f02dd2606023638767379f6704/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/wz/AndroidStudioProjects/News/magicindicator/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/wz/.android/build-cache/733c35a9ea6cd0f02dd2606023638767379f6704/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/wz/AndroidStudioProjects/News/magicindicator/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/wz/.android/build-cache/733c35a9ea6cd0f02dd2606023638767379f6704/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]
